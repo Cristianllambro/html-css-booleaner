@@ -1,0 +1,16 @@
+.pattern {
+    background-image: url(../img/pattern.png);
+    background-color: #0099ff;
+    width: 100%;
+    padding: 20px;
+}
+
+.text-grey{
+    color:grey;
+}
+
+.logo{
+    width: 350px;
+    height: 200px;
+    margin top: 20px;
+}
