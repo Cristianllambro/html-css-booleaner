@@ -63,6 +63,10 @@ thead{
     background-color: cyan;
 }
 
+.paragrafo{
+    margin: 20px 0px;
+}
+
 .grafico{
     margin-top: 10px;
 }
